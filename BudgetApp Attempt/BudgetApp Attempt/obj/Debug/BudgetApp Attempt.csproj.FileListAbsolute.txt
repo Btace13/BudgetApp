@@ -1,0 +1,9 @@
+c:\users\thegamingcomputer\documents\visual studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\bin\Debug\BudgetApp Attempt.exe.config
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\bin\Debug\BudgetApp Attempt.exe
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\bin\Debug\BudgetApp Attempt.pdb
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\obj\Debug\BudgetApp Attempt.csprojResolveAssemblyReference.cache
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\obj\Debug\BudgetApp_Attempt.Form1.resources
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\obj\Debug\BudgetApp_Attempt.Properties.Resources.resources
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\obj\Debug\BudgetApp Attempt.csproj.GenerateResource.Cache
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\obj\Debug\BudgetApp Attempt.exe
+C:\Users\TheGamingComputer\Documents\Visual Studio 2015\Projects\BudgetApp Attempt\BudgetApp Attempt\obj\Debug\BudgetApp Attempt.pdb
